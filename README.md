@@ -2,6 +2,8 @@
 
 Simple vehicle lock system. Press U or DPAD-DOWN on a controller to toggle the lock.
 
+Modified to allow for emergency vehicles to be locked. Also, changed code to prevent glass from being broken out.
+
 ## Requirements
 
 - [esx_vehicleshop](https://github.com/ESX-Org/esx_vehicleshop)
